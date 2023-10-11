@@ -1,5 +1,3 @@
-# literacy
+I love [Wikipedia](https://ja.wikipedia.org)!
 
-test 
-test 
-完成
+[テキスト](https://www.google.co.jp/)
